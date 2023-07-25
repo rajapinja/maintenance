@@ -172,12 +172,13 @@ header {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  list-style:none;
+  list-style:none;  
 }
 
 .menu-items {
   position: relative;
-  font-size: 14px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
 }
 
 .menu-items a {

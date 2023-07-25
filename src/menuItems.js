@@ -74,6 +74,10 @@ export const menuItems = [
           url: '/profile',
         },
       ],
+    },
+    {
+      title: 'Blog',
+      url: '/blog',    
     }
   ];
   
